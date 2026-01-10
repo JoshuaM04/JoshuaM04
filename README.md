@@ -9,4 +9,4 @@ Fun Facts:
 * I'm a huge fan of spicy foods
 * I love chicken wings 
 * I'm an avid horror movie enjoyer
-* Marvel Rivals if my favorite game 
+* Marvel Rivals is my favorite game 
