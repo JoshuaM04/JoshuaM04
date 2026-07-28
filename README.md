@@ -1,15 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm Joshua!
 
-I'm Joshua, a front-end web developer based in the United States. <br/>
-I have experience with HTML5, CSS3, CUBE, JavaScript, Tailwind CSS, Vite, and React. <br />
-I'm constantly expanding my knowledge about front-end web development thanks to one of my favorite authors on the subject, Jon Duckett. <br />
-I have completed various small projects which were inspired from designs on FrontEnd Mentor as well as freeCodeCamp! <br />
-
-Fun Facts:
-* I'm a huge fan of spicy foods
-* I love chicken wings 
-* I'm an avid horror movie enjoyer
-* Marvel Rivals is my favorite game 
+🧑🏽‍💻 Software Engineer in Front-End development <br/>
+📖 Studied Computer Science at Texas State University <br />
+💭 Currently expanding my knowledge in Full-Stack development <br />
 
 ## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,3 +17,13 @@ Fun Facts:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Joshuam04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Joshuam04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Joshuam04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Joshuam04&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
