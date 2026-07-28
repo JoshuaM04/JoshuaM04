@@ -23,6 +23,3 @@ https://woodwork-creations.com/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Joshuam04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joshuam04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
