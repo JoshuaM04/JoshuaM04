@@ -32,5 +32,5 @@ https://woodwork-creations.com/
 ![Shadcn/UI](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Joshuam04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
